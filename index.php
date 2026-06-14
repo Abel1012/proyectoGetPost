@@ -66,7 +66,7 @@
 
     <hr>
 
-    <h2>Formulario de Contacto (POST)</h2>
+    <h2>Formulario de Contacto </h2>
     <form action="/proyectoGetPost/index.php" method="POST">
         <label for="nombre">Nombre Completo:</label>
         <input type="text" id="nombre" name="nombre" placeholder="Ej. Nombre Apellido" required>
